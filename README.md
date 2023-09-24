@@ -1,4 +1,5 @@
 # SpringApp
 Basic spring application
-Second add file changes
-Third line in main
+
+Added new line
+Fourth line added in feature2
