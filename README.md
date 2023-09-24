@@ -1,2 +1,0 @@
-# SpringApp
-Basic spring application
